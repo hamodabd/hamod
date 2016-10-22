@@ -1,0 +1,6 @@
+{
+  "name": "Hamod",
+  "tagline": "",
+  "body": " setTimeout('document.getElementById(\"upd\").onclick();',2000);\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
